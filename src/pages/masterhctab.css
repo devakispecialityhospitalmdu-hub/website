@@ -1,0 +1,72 @@
+.mhcapp {
+  font-family: sans-serif;
+  background: #ffffff;
+  color: white;
+  height: auto;
+  box-sizing: border-box;
+  color: #000000;
+}
+
+.react-tabs {
+  display: flex;
+  margin-left: 36px;
+  width: 1300px;
+  height: auto;
+  /*border: 3px solid #ddd;*/
+  color: #363636;
+  background: #ffffff;
+}
+
+.react-tabs__tab-list {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  margin: 0;
+  padding: 0;
+  color: white;
+  background: #ddd;
+}
+
+.react-tabs__tab {
+  height: 70px;
+  list-style: none;
+  padding: 12px 6px;
+  cursor: pointer;
+  color: #000000;
+}
+
+.react-tabs__tab--selected {
+  background: #1370b5;
+  border-color: #1c1d1f;
+  border-left: 4px solid #ddd;
+  color: white;
+}
+
+.react-tabs__tab-panel {
+  display: none;
+  width: 300px;
+}
+
+.react-tabs__tab-panel--selected {
+  display: block;
+}
+.react-tabs__tab {
+  padding-left: 24px;
+}
+
+.react-tabs__tab--selected {
+  padding-left: 21px;
+}
+
+.panel-content {
+  width: 150%;
+  margin-left: 50px;
+  text-align: left;
+}
+.panel-content1 {
+  width: 150%;
+  margin-left: 70px;
+  text-align: left;
+  font-weight: 400;
+  font-size: 100%;
+}
