@@ -377,7 +377,7 @@ const upload=(e)=>{
                                                      <a href=" / "><img className="logoheader1" src="assets/images/logodev.png" alt="" /></a>
                                                 </div>
                                                 <div className="text">
-                                                    <p>Devaki specialty hospital was established by Dr. P. S. Nagendiran, M.B.B.S. & Dr. K. Devaki M.B.B.S. D.M.R.D. We can provide the following facilities: 100 bedded hospitals, an airconditioned operation theatre, pharmacy attached to the hospital, ECG & clinical laboratory facilities.</p>
+                                                    <p>Devaki specialty hospital was established by Dr. P. S. Nagendiran, M.B.B.S. & Dr. K. Devaki M.B.B.S. D.M.R.D. We can provide the following facilities: 150 bedded hospitals, an airconditioned operation theatre, pharmacy attached to the hospital, ECG & clinical laboratory facilities.</p>
                                                 </div>
                                                 <ul className="social-icon-three">
                                                     <li><a href="https://www.youtube.com/channel/UCDRHhVdtq1OhYv894_Bzg9A/" target="_blank"> <i className="fab fa-youtube"></i></a></li>
@@ -442,7 +442,7 @@ const upload=(e)=>{
 
                                                         <li>
                                                             <span className="icon flaticon-call-1"></span>
-                                                            <a href="tel:+91 9790018411"><strong>Mobile:+91 9790018411 Phone:0452-2288800,31,41</strong></a>
+                                                            <a href="tel:+91 9600600888"><strong>Mobile:+91 9600600888 Phone:0452-2288800,31,41</strong></a>
                                                         </li>
 
                                                         <li>
@@ -479,7 +479,7 @@ const upload=(e)=>{
                                 </div>
                                 
                                 <div className="copyright-text">
-                                    <p>Copyright © 2022 <a href="/#">Devaki Hospital    </a> All Rights Reserved.</p>
+                                    <p>Copyright © 2026 <a href="/#">Devaki Hospital    </a> All Rights Reserved.</p>
                                 </div>
                             </div>
                         </div>

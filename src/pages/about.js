@@ -739,7 +739,7 @@ const About = () => {
 				                    <div className=" ms-5">
 				                        <span className="text">Need a Doctor for Check-up?</span>
 				                        <h3>Just Make an Appointment and You’re Done!</h3>
-				                        <div className="text">Get Your Quote or Call:<br></br> Mobile:+91 9790018411 <br></br> Phone:0452-2288800/31/41</div>
+				                        <div className="text">Get Your Quote or Call:<br></br> Mobile:+91 9600600888 <br></br> Phone:0452-2288800/31/41</div>
 			                        </div>
 		                        </div>
 	                        </div>
@@ -1680,7 +1680,7 @@ const About = () => {
 
                 <div className="copyright-text">
                   <p>
-                    Copyright © 2022 <a href="/#">Devaki Hospital </a> All
+                    Copyright © 2026 <a href="/#">Devaki Hospital </a> All
                     Rights Reserved.
                   </p>
                 </div>

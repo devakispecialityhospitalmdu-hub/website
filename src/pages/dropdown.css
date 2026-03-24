@@ -9,6 +9,7 @@ div.ruby-menu-demo-header {
     z-index: 99999
 }
 
+
 div.ruby-menu-demo-header-bg div.ruby-menu-demo-download > span {
     color: #efefef
 }
@@ -958,7 +959,8 @@ ul.ruby-menu > li > a {
     text-decoration: none;
     font-family: 'Open Sans',sans-serif;
     font-weight:400;
-    text-transform: uppercase
+    text-transform: uppercase;
+    white-space: nowrap;
 }
 
 ul.ruby-menu > li > a:only-child {

@@ -81,7 +81,7 @@ import  "./svg.css";
 
                                             <li>
                                                 <span className="icon flaticon-call-1"></span>
-                                                <a href="tel:+91 9790018411"><strong>Mobile:+91 9790018411 Phone:0452-2288800,31,41</strong></a>
+                                                <a href="tel:+91 9600600888"><strong>Mobile:+91 9600600888 Phone:0452-2288800,31,41</strong></a>
                                             </li>
 
                                             <li>
@@ -118,7 +118,7 @@ import  "./svg.css";
                     </div>
                     
                     <div className="copyright-text">
-                        <p>Copyright © 2022 <a href="/#">Devaki Hospital    </a> All Rights Reserved.</p>
+                        <p>Copyright © 2026 <a href="/#">Devaki Hospital    </a> All Rights Reserved.</p>
                     </div>
                 </div>
             </div>
